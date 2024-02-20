@@ -1,4 +1,5 @@
 .gitignore
+.envrc
 .nvmrc
 Makefile
 README.md
