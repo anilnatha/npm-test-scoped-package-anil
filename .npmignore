@@ -1,0 +1,6 @@
+.gitignore
+.nvmrc
+Makefile
+README.md
+node_modules
+tests
