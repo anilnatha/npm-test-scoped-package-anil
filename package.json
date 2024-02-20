@@ -1,19 +1,19 @@
 {
-  "name": "@anatha/npm-test-package-anil",
+  "name": "@anatha/npm-test-scoped-package-anil",
   "version": "1.0.0",
-  "description": "",
+  "description": "Test Publishing of Scoped Package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anilnatha/npm-test-package-anil.git"
+    "url": "git+https://github.com/anilnatha/npm-test-scoped-package-anil.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anilnatha/npm-test-package-anil/issues"
+    "url": "https://github.com/anilnatha/npm-test-scoped-package-anil/issues"
   },
-  "homepage": "https://github.com/anilnatha/npm-test-package-anil#readme"
+  "homepage": "https://github.com/anilnatha/npm-test-scoped-package-anil#readme"
 }
